@@ -23,7 +23,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/JohnIdyu/netflix-clone-project
+git clone https://github.com/JohnIdyu/netflix-clone-project.git
 ```
 
 ### Install packages
